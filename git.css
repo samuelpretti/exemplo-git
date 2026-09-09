@@ -7,11 +7,9 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: lightblue;
     height: 100vh;
+    background-color: black;
+    color: white;
+    font-size: 32px;
+}
 
-}
-a{
-    text-decoration: none;
-    color: rgb(79, 173, 12);
-}
